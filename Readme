@@ -1,0 +1,58 @@
+# Abertura de porta por biometria
+
+# Descrição
+  O projeto tem como intuito a criação de um sistema de abertura de porta ou portão por leitura e idetificação biometrica, que traz benefícios de facilidade e ultilidade para o indivíduo que optar pela escolha do projeto, possui um ótimo custo x benefício.
+
+Vantagens da Biometria
+
+Para os Empregadores
+
+Redução de custos (devida sobretudo ao fim da manutenção de palavras de passe e à maior segurança)
+Aumento da segurança
+Vantagem competitiva (inerente à familiarização com tecnologia de ponta)
+
+
+Para os Empregados
+
+Conveniência (deixa de ser necessário memorizar palavras de passe, códigos e nomes de utilizador)
+Segurança (inclusivamente dos seus dados pessoais)
+Não repudiação (é difícil refutar transacções baseadas em dados biométricos)
+
+
+Para os Clientes
+
+Conveniência (deixa de ser necessário memorizar palavras de passe, códigos e nomes de utilizador)
+Segurança
+Privacidade (possibilidade de efectuar transacções anónimas)
+
+Para os Vendedores
+
+Redução de custos (devido sobretudo à redução das fraudes)
+Vantagem competitiva (segurança das transacção)
+Segurança (a segurança é maior do que através de palavras de passe)
+Para o Sector Público
+
+Redução dos custos
+Aumento de confiança dos cidadãos
+Aumento da segurança
+
+# Pré-Requisitos
+  Ferramentas e sowftares ultilitazadas
+   
+   Usado o compilador Arduino IDE
+   Bibliotecas:
+  ⚙️ BIBLIOTECA (Adafruit_Fingerprint_Sensor_Library)
+  ⚙️ BIBLIOTECA (PushButton)
+   
+# Instalação
+MÓDULO RELÉ 5V 1 CANAL R$ 10,00
+MINI FECHADURA SOLENÓIDE ELETRÔNICA 12V PARA ARDUÍNO R$ 55,90
+SENSOR DE BIOMETRIA - IMPRESSÕES DIGITAIS R$ 129,90
+ARDUINO UNO R3 R$ 52,90
+KIT CABOS JUMPER U PARA PROTOBOARD 140UNDS - ARDUINO PIC R$ 19,90
+PROTOBOARD 830 PONTOS R$ 17,90
+KIT JUMPERS MACHO-FÊMEA X10 UNIDADES 20CM R$ 5,00
+FONTE 12V 1A BIVOLT P/ ARDUINO CFTV R$ 15,00
+CHAVE TACT 6X6X5 180 GRAUS R$ 0,20
+Site: https://www.arducore.com.br
+Será necessário a instalação física e adequada dos respectivos equipamentos citados para o funcionamento normalizado do sistema,
