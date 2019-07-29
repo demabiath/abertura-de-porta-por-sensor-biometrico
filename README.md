@@ -36,4 +36,4 @@
 <a href=''https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw''>Brincando com ideias</a>
 
 
-<a href=''https://nerdking.net.br''>Nerd King</a>
+>Nerd King</a>
