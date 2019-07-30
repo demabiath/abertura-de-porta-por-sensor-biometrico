@@ -45,8 +45,11 @@
 
 <h1>Créditos</h1>
 Projeto Iniciado na disciplina de Informatica Aplicada
+
 Centro Federal de Educação Tecnológica de Minas Gerais
+
 Discente: Davi Santos
+
 Docente:
 <a href="https://github.com/Epaminondaslage">Epaminondas Lage
 
