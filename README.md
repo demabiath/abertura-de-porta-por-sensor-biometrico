@@ -48,17 +48,17 @@ Projeto Iniciado na disciplina de Informatica Aplicada
 
 Centro Federal de Educação Tecnológica de Minas Gerais
 
-Discente: Davi Santos
+Discente: 
+<a href="https://github.com/demabiath">Davi Santos</a>
 
 Docente:
-<a href="https://github.com/Epaminondaslage">Epaminondas Lage
+<a href="https://github.com/Epaminondaslage">Epaminondas Lage</a>
 
+<a href="https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw">Brincando com Ideias</a>
 
-<a href="https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw">Brincando com Ideias
+<a href="https://www.youtube.com/user/iberethenorio">Manual do Mundo</a>
 
-<a href="https://www.youtube.com/user/iberethenorio">Manual do Mundo
-
-<a href="https://www.w3schools.com/tags/ref_byfunc.asp">Códigos HTML
+<a href="https://www.w3schools.com/tags/ref_byfunc.asp">Códigos HTML</a>
 
 
 
