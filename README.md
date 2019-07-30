@@ -2,6 +2,15 @@
 <p><strong>&nbsp;Abertura de porta por biometria</strong></p>
 <div>
 <p><strong>&nbsp;Descri&ccedil;&atilde;o</strong><br /> O projeto tem como intuito a cria&ccedil;&atilde;o de um sistema de abertura de porta ou port&atilde;o por leitura e idetifica&ccedil;&atilde;o biometrica, que traz benef&iacute;cios de facilidade e ultilidade para o indiv&iacute;duo que optar pela escolha do projeto, possui um &oacute;timo custo x benef&iacute;cio.</p>
+<p><strong>S&uacute;mario<br /><br /></strong></p>
+<ul>
+<li>Intrudu&ccedil;&atilde;o</li>
+<li>Desenvolvimento e Pré-requisitos</li>
+<li>Instalação e configurações</li>
+<li>Uso</li>
+<li>Contribuiçoes e Crédito</li>
+</ul>
+<p>&nbsp;</p>
 
 
 <h3>Vantagens da Biometria</h3>
